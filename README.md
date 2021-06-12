@@ -1,2 +1,2 @@
 # automation_practice
-This repository consists of automation practice code that are asked in most of the interview process
+This repository consists of automation questions using selenium with java that are asked in most of the interview process
